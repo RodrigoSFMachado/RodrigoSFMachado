@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Santos Ferreira Machado</h1>
 <h3 align="center">Mechanical Engineer and passionate student of DataScience</h3>
 
-- 🔭 I am currently working on Kaggle projects [Machine Learning](https://www.kaggle.com/rodrigosfmachado)
+- 🔭 I am currently pursuing my master's degree in computer science at CEFET-RJ (Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Rio de Janeiro)
+- Enrolled in the PPCIC (Programa de Pós-graduação em Ciência da Computação)
 
 - 🌱 I’m currently learning: **Machine Learning and SQL**
 
